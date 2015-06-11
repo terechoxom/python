@@ -24,5 +24,6 @@ for x in range (0,10):
 
 sup = raw_input ('ingrese valor')
 for x in range(0,int(sup)+1):
-	print (str(x))
+	print ('hola mundo')
+	
 	
